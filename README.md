@@ -1,0 +1,2 @@
+# idarresolusi
+membuat resolusi
